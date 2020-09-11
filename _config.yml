@@ -11,9 +11,9 @@ title                    : "Xiangyu Peng / AI Magic World"
 title_separator          : "-"
 name                     : &name "Xiangyu Peng"
 description              : &description "2nd year PhD student in Machine Learning at Georgia Tech."
-url                      : https://axiangyupeng1994.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xiangyu-peng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xiangyupeng1994/page"
+repository               : "xiangyu-peng/xiangyu-peng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
