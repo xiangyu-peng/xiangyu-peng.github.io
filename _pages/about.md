@@ -12,4 +12,4 @@ I am Xiangyu Peng, a 2nd-year PhD stuent in Machine Learning at Georgia Institut
 
 
 
-You can reach me at xpeng62 at gatech dot edu. In my free time, you’ll find me walking dogs and playing video games.
+You can reach me at xpeng62 at gatech dot edu. In my free time, you’ll find me walking mu puppy or cooking.
