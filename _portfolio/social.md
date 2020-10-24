@@ -1,6 +1,0 @@
----
-title: ""
-excerpt: "<img src='/images/jiuye/Snapseed (2).jpg' width='300' style='float:left'><img src='/images/jiuye/Snapseed.jpg' width='300' style='float:right'>"
-collection: portfolio
----
-<img src='/images/jiuye/Snapseed (2).jpg' width='400' style='float:left'><img src='/images/jiuye/Snapseed.jpg' width='400' style='float:right'>
