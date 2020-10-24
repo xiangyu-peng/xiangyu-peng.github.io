@@ -1,4 +1,5 @@
 ---
+title: A photo of my family
 excerpt: "On our way to halloween pawty for JIUYE at Oct 18, 2020 <br/><img src='/images/jiuye/Image from iOS (2).jpg' width='400' style='float:left'>
 collection: portfolio
 ---
