@@ -4,4 +4,4 @@ excerpt: "<img src='/images/jiuye/Image from iOS (2).jpg' width='320' style='flo
 collection: portfolio
 ---
 
-![](/images/jiuye/Image from iOS (2).jpg)
+<img src='/images/jiuye/Image from iOS (2).jpg' width='320' style='float:left'>
