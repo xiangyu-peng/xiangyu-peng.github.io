@@ -13,3 +13,8 @@ I am Xiangyu Peng, a 2nd-year PhD stuent in Machine Learning at Georgia Institut
 
 
 You can reach me at xpeng62 at gatech dot edu. In my free time, you’ll find me walking my pup or cooking.
+
+
+**Update**
+**OCT 23, 2020** Acceptance of my Paper: _Improving Neural Storytelling with Commonsense Inferences_ by NeurIPS WiML 2020.
+**OCT 12, 2020** Acceptance of my Paper: _Reducing Non-Normative Text Generation from Language Models Reducing Non-Normative Text Generation from Language Models_ by INLG 2020.
