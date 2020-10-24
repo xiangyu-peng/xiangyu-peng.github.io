@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="https://xiangyu-peng.github.io/files/Becky_s_CV (1).pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://xiangyu-peng.github.io/files/Xiangyu_Peng.pdf" type="application/pdf" width="600px" height="500px" />
