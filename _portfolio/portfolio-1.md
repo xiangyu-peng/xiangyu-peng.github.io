@@ -1,6 +1,6 @@
 ---
 title: "OCT 18 2020 - Halloween Pawty"
-excerpt: "<img src='/images/jiuye/Image from iOS (2).jpg' width='310' style='float:left'><img src='/images/jiuye/Image from iOS (3).jpg' width='330' style='float:left'><img src='/images/jiuye/Facetune_18-10-2020-17-24-51.JPG' width='250' style='float:right'>"
+excerpt: "<img src='/images/jiuye/Image from iOS (2).jpg' width='250' style='float:left'><img src='/images/jiuye/Image from iOS (3).jpg' width='330' style='float:left'><img src='/images/jiuye/Facetune_18-10-2020-17-24-51.JPG' width='250' style='float:right'>"
 collection: portfolio
 ---
 
