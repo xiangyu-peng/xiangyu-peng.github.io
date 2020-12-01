@@ -16,6 +16,7 @@ You can reach me at xpeng62 at gatech dot edu. In my free time, you’ll find me
 
 
 **Update**
+**DEC 01, 2020** Acceptance of my Paper: _Detecting and Adapting to Novelty in Games_ by Reinforcement Learning in Games workshop at AAAI 2021.
 
 **OCT 30, 2020** Acceptance of my Paper: _Detecting and Adapting to Novelty in Games_ by Creativity and Robotics workshop at ICSR 2020.
 
