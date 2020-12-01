@@ -6,5 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Updated on Dec 1, 2020
 
 <embed src="https://xiangyu-peng.github.io/files/Xiangyu_Peng.pdf" type="application/pdf" width="600px" height="500px" />
