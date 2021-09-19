@@ -8,14 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am Xiangyu Peng, a 2nd-year PhD stuent in Machine Learning at Georgia Institute of Technology. I am advised by [Dr. Mark Riedl](http://eilab.gatech.edu/), and my **research** focused on **natural language generation** and **deep reinforcement learning**.
-
+I am Xiangyu Peng, a 3rd-year PhD stuent in Machine Learning at Georgia Institute of Technology. I am advised by [Dr. Mark Riedl](http://eilab.gatech.edu/), and my **research** focused on **natural language generation** and **deep reinforcement learning**.
 
 
 You can reach me at xpeng62 at gatech dot edu. In my free time, you’ll find me walking my pup or cooking.
 
 
 **Update**
+
+**Spt 10, 2021** Acceptance of my Paper: _Explainable Reinforcement Learning Agent With Stacked Hierarchical Attention_ by the Explainable Graph-Based Machine Learning Workshop in AKBC-21
+
+**May 17, 2021** Work as PhD intern in Salesforce~ Focus on NLG reserach.
+
+**APR 15, 2021** Acceptance of my Paper: _Augmented Neural Story Generation with Commonsense Inference_ by The 3rd Workshop On Narrative Understanding in NAACL-21
+
+**APR 15, 2021** Acceptance of my Paper: _Automatic Story Generation: Challenges and Attempts_ by The 3rd Workshop On Narrative Understanding in NAACL-21
 
 **DEC 01, 2020** Acceptance of my Paper: _Detecting and Adapting to Novelty in Games_ by Reinforcement Learning in Games workshop at AAAI 2021.
 
@@ -25,7 +32,4 @@ You can reach me at xpeng62 at gatech dot edu. In my free time, you’ll find me
 
 **OCT 12, 2020** Acceptance of my Paper: _Reducing Non-Normative Text Generation from Language Models Reducing Non-Normative Text Generation from Language Models_ by INLG 2020.
 
-**Blog**
-
-[Large Language Models](https://www.overleaf.com/read/qvmfrytmbhvn)\
-[Reinforcement Learning](https://www.overleaf.com/read/jwkzczbvrnsf)
+[UPDATE on Sep 20, 2021]
