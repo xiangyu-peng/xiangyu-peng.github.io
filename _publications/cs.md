@@ -1,6 +1,5 @@
 ---
 title: "Augmented Neural Story Generation with Commonsense Inference"
-excerpt: 'Submitted to the 30th International Joint Conference on Artificial Intelligence (IJCAI-21)'
 date: 2021-01-20
-paperurl: ''
+[![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-<COLOR>.svg)](https://arxiv.org/abs/2105.01311)
 ---
