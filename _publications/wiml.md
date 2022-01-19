@@ -1,9 +1,6 @@
 ---
-title: "Improving Neural Storytelling with Commonsense Inferences"
-collection: publications
-excerpt: 'Accepted in The NeurIPS WiML 2020 as a poster presentation'
-date: 2020-10-01
-venue: 'NeurIPS WiML 2020'
-paperurl: ''
+title: "Automatic Story Generation: Challenges and Attempts"
+date: 2021
 ---
-Accepted in The 13th International Conference on Natural Language Generation (INLG 2020)
+[![arXiv](https://img.shields.io/badge/arXiv-2102.12634-b31b1b.svg)](https://arxiv.org/abs/2102.12634)
+
