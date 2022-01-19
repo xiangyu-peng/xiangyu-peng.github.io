@@ -15,8 +15,11 @@ You can reach me at xpeng62 at gatech dot edu. In my free time, you’ll find me
 
 
 **Update**
+**May 16, 2022** Work as Research Intern in Salesforce Research.
 
-** OCT 9, 2021** Give a talk on Explainable Reinforcement Learning Agent With Stacked Hierarchical Attention in Explainable Graph-Based Machine Learning Workshop in AKBC-21
+**OCT 9, 2021** Give a talk on Explainable Reinforcement Learning Agent With Stacked Hierarchical Attention in Explainable Graph-Based Machine Learning Workshop in AKBC-21
+
+**OCT 9, 2021** Give a talk on Explainable Reinforcement Learning Agent With Stacked Hierarchical Attention in Explainable Graph-Based Machine Learning Workshop in AKBC-21
 
 **SPT 10, 2021** Acceptance of my Paper: _Explainable Reinforcement Learning Agent With Stacked Hierarchical Attention_ by the Explainable Graph-Based Machine Learning Workshop in AKBC-21
 
@@ -34,4 +37,4 @@ You can reach me at xpeng62 at gatech dot edu. In my free time, you’ll find me
 
 **OCT 12, 2020** Acceptance of my Paper: _Reducing Non-Normative Text Generation from Language Models Reducing Non-Normative Text Generation from Language Models_ by INLG 2020.
 
-[UPDATE on Sep 20, 2021]
+[UPDATE on Jan 15, 2022]
