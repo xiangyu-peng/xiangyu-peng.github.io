@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiangyu Peng"
+  name             : "<a style='color: #f76900;'>Xiangyu Peng</a>"
   avatar           : "Image from iOS (1).jpg"
-  bio              : "Research Assistant in Human-Centered Artificial Intelligence and Entertainment Intelligence Lab, supervised by Prof. Mark Riedl."
+  bio              : "PhD student at Georgia Tech, supervised by Prof. Mark Riedl."
   location         : "Atlanta, GA, US"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=lXsRQ-MAAAAJ"
-  email            :
+  email            : "xypeng62@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
