@@ -6,6 +6,13 @@ author_profile: true
 
 ## 2022
 
+<span style="color:navy">XFBoost: Improving Text Generation with Controllable Decoders</span>
+
+_Xiangyu Peng, Michael Sollami_
+
+[![arXiv](https://img.shields.io/badge/arXiv-2112.08907
+-b31b1b.svg)](https://arxiv.org/abs/2112.08907)
+
 <span style="color:navy">Inherently Explainable Reinforcement Learning in Natural Language</span>
 
 _Xiangyu Peng, Mark O Riedl, Prithviraj Ammanabrolu_
