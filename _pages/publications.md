@@ -13,6 +13,8 @@ _Xiangyu Peng, Michael Sollami_
 [![arXiv](https://img.shields.io/badge/arXiv-2112.08907
 -b31b1b.svg)](https://arxiv.org/abs/2112.08907)
 
+## 2021
+
 <span style="color:navy">Inherently Explainable Reinforcement Learning in Natural Language</span>
 
 _Xiangyu Peng, Mark O Riedl, Prithviraj Ammanabrolu_
@@ -28,7 +30,6 @@ _Xiangyu Peng, Kaige Xie, Amal Alabdulkarim, Harshith Kayam, Samihan Dani, Mark 
 [![arXiv](https://img.shields.io/badge/arXiv-2112.08596
 -b31b1b.svg)](https://arxiv.org/abs/2112.08596)
 
-## 2021
 
 <span style="color:navy">Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning</span>
 
@@ -37,6 +38,9 @@ _Xiangyu Peng, Siyan Li, Sarah Wiegreffe, Mark Riedl_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2105.01311
 -b31b1b.svg)](https://arxiv.org/abs/2105.01311)
+
+
+## 2020
 
 <span style="color:navy">Automatic Story Generation: Challenges and Attempts</span>
 
@@ -53,8 +57,6 @@ _Xiangyu Peng, Jonathan C. Balloch, Mark O. Riedl_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2106.02204
 -b31b1b.svg)](https://arxiv.org/abs/2106.02204)
-
-## 2020
 
 <span style="color:navy">Reducing Non-Normative Text Generation from Language Models</span>
 
