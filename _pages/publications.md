@@ -26,7 +26,7 @@ _Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS-22)_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2112.08907
 -b31b1b.svg)](https://arxiv.org/abs/2112.08907)
-[![](https://img.shields.io/badge/NeurIPS-22-blueviolet.svg)]()
+[![](https://img.shields.io/badge/NeurIPS--22-Conference-blueviolet.svg)]()
 
 
 **Xiangyu Peng**, Kaige Xie, Amal Alabdulkarim, Harshith Kayam, Samihan Dani, Mark O. Riedl
@@ -49,7 +49,7 @@ _Findings of EMNLP-22_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2105.01311
 -b31b1b.svg)](https://arxiv.org/abs/2105.01311)
-[![](https://img.shields.io/badge/EMNLP-22-blueviolet.svg)]()
+[![](https://img.shields.io/badge/EMNLP--22-Conference-blueviolet.svg)]()
 
 
 ## 2021
