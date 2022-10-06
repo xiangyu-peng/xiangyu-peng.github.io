@@ -8,16 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am Xiangyu Peng, a 4th-year Ph.D. student in Machine Learning @ Georgia Institute of Technology. I am advised by [Dr. Mark Riedl](http://eilab.gatech.edu/), and my **research** focused on **natural language generation** and **deep reinforcement learning**.
+I am Xiangyu Peng, a 4th-year Ph.D. candidate in Machine Learning @ Georgia Institute of Technology. I am advised by [Dr. Mark Riedl](http://eilab.gatech.edu/), and my **research** focused on **natural language generation** and **deep reinforcement learning**.
 
 
 You can reach me at xpeng62 at gatech dot edu. 
 
 ## Update
 
-**Sep 14, 2022** Acceptance of my Paper: _Inherently Explainable Reinforcement Learning in Natural Language_ by Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS-22) (Acceptance rate 25.6\%)
+**Oct 6th, 2022** Acceptance of my Paper: _Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning_ by Findings of **EMNLP-22**
 
-**May 16, 2022** Work as Research Intern in Salesforce Research.
+**Sep 14, 2022** Acceptance of my Paper: _Inherently Explainable Reinforcement Learning in Natural Language_ by **NeurIPS-22**
+
+**May 16, 2022** Work as Research Intern in **Salesforce Research**.
+
+**March 18, 2022**  Acceptance of my Paper: _Inherently Explainable Reinforcement Learning in Natural Language_ by **RLDM 2022**
 
 **OCT 9, 2021** Give a talk on Explainable Reinforcement Learning Agent With Stacked Hierarchical Attention in Explainable Graph-Based Machine Learning Workshop in AKBC-21
 
