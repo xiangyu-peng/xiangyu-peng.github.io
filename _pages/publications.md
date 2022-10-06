@@ -4,6 +4,8 @@ title: "Publications"
 author_profile: true
 ---
 
+## 2022
+
 **Xiangyu Peng**, Michael Sollami
 
 <span style="color:navy">XFBoost: Improving Text Generation with Controllable Decoders</span>
@@ -50,6 +52,8 @@ _Findings of EMNLP-22_
 [![](https://img.shields.io/badge/EMNLP-22-blueviolet.svg)]()
 
 
+## 2021
+
 Amal Alabdulkarim*, Siyan Li*, Xiangyu Peng*
 
 <span style="color:navy">Automatic Story Generation: Challenges and Attempts</span>
@@ -72,6 +76,7 @@ _Reinforcement Learning in Games workshop at AAAI 2021_
 -b31b1b.svg)](https://arxiv.org/abs/2106.02204)
 [![](https://img.shields.io/badge/AAAI--21-Workshop-9cf.svg)]()
 
+## 2020
 
 **Xiangyu Peng**, Siyan Li, Spencer Frazier, Mark Riedl
 
