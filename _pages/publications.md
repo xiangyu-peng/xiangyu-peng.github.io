@@ -4,7 +4,6 @@ title: "Publications"
 author_profile: true
 ---
 
-## 2022
 
 <span style="color:navy">XFBoost: Improving Text Generation with Controllable Decoders</span>
 
@@ -13,7 +12,6 @@ _Xiangyu Peng, Michael Sollami_
 [![arXiv](https://img.shields.io/badge/arXiv-2202.08124
 -b31b1b.svg)](https://arxiv.org/abs/2202.08124)
 
-## 2021
 
 <span style="color:navy">Inherently Explainable Reinforcement Learning in Natural Language</span>
 
@@ -22,6 +20,7 @@ _Xiangyu Peng, Mark O Riedl, Prithviraj Ammanabrolu_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2112.08907
 -b31b1b.svg)](https://arxiv.org/abs/2112.08907)
+[![](https://img.shields.io/badge/EMNLP-22-blueviolet.svg)]()
 
 <span style="color:navy">Guiding Neural Story Generation with Reader Models</span>
 
@@ -38,9 +37,8 @@ _Xiangyu Peng, Siyan Li, Sarah Wiegreffe, Mark Riedl_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2105.01311
 -b31b1b.svg)](https://arxiv.org/abs/2105.01311)
+[![](https://img.shields.io/badge/NeurIPS-22-blueviolet.svg)]()
 
-
-## 2020
 
 <span style="color:navy">Automatic Story Generation: Challenges and Attempts</span>
 
@@ -65,3 +63,4 @@ _Xiangyu Peng, Siyan Li, Spencer Frazier, Mark Riedl_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2001.08764
 -b31b1b.svg)](https://arxiv.org/abs/2001.08764)
+[![](https://img.shields.io/badge/INLG-20-blueviolet.svg)]()
