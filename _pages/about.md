@@ -15,6 +15,8 @@ You can reach me at xpeng62 at gatech dot edu.
 
 ## Update
 
+**Oct 6th, 2022** Acceptance of my Paper: _Guiding Neural Story Generation with Reader Models_ by Findings of **EMNLP-22**
+
 **Oct 6th, 2022** Acceptance of my Paper: _Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning_ by Findings of **EMNLP-22**
 
 **Sep 14, 2022** Acceptance of my Paper: _Inherently Explainable Reinforcement Learning in Natural Language_ by **NeurIPS-22**

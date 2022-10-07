@@ -8,7 +8,7 @@ author_profile: true
 
 **Xiangyu Peng**, Michael Sollami
 
-<span style="color:navy">XFBoost: Improving Text Generation with Controllable Decoders</span>
+<span style="color:navy">**XFBoost: Improving Text Generation with Controllable Decoders**</span>
 
 _Under Review_
 
@@ -19,32 +19,33 @@ _Under Review_
 
 **Xiangyu Peng**, Mark O Riedl, Prithviraj Ammanabrolu
 
-<span style="color:navy">Inherently Explainable Reinforcement Learning in Natural Language</span>
+<span style="color:navy">**Inherently Explainable Reinforcement Learning in Natural Language**</span>
 
 _Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS-22)_
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2112.08907
 -b31b1b.svg)](https://arxiv.org/abs/2112.08907)
-[![](https://img.shields.io/badge/NeurIPS--22-Conference-blueviolet.svg)]()
+[![](https://img.shields.io/badge/NeurIPS--22-Conference-blueviolet.svg)](https://nips.cc/Conferences/2022/ScheduleMultitrack?event=54848)
 
 
 **Xiangyu Peng**, Kaige Xie, Amal Alabdulkarim, Harshith Kayam, Samihan Dani, Mark O. Riedl
 
-<span style="color:navy">Guiding Neural Story Generation with Reader Models</span>
+<span style="color:navy">**Guiding Neural Story Generation with Reader Models**</span>
 
-_Under Review_
+_Findings of the Association for Computational Linguistics: EMNLP 2022_
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2112.08596
 -b31b1b.svg)](https://arxiv.org/abs/2112.08596)
+[![](https://img.shields.io/badge/EMNLP--22-Conference-blueviolet.svg)]()
 
 
 **Xiangyu Peng**, Siyan Li, Sarah Wiegreffe, Mark Riedl
 
-<span style="color:navy">Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning</span>
+<span style="color:navy">**Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning**</span>
 
-_Findings of EMNLP-22_
+_Findings of the Association for Computational Linguistics: EMNLP 2022_
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2105.01311
@@ -56,7 +57,7 @@ _Findings of EMNLP-22_
 
 Amal Alabdulkarim*, Siyan Li*, Xiangyu Peng*
 
-<span style="color:navy">Automatic Story Generation: Challenges and Attempts</span>
+<span style="color:navy">**Automatic Story Generation: Challenges and Attempts**</span>
 
 _The 3rd Workshop On Narrative Understanding in NAACL-21_
 
@@ -67,7 +68,7 @@ _The 3rd Workshop On Narrative Understanding in NAACL-21_
 
 **Xiangyu Peng**, Jonathan C. Balloch, Mark O. Riedl
 
-<span style="color:navy">Detecting and Adapting to Novelty in Games</span>
+<span style="color:navy">**Detecting and Adapting to Novelty in Games**</span>
 
 _Reinforcement Learning in Games workshop at AAAI 2021_
 
@@ -80,11 +81,11 @@ _Reinforcement Learning in Games workshop at AAAI 2021_
 
 **Xiangyu Peng**, Siyan Li, Spencer Frazier, Mark Riedl
 
-<span style="color:navy">Reducing Non-Normative Text Generation from Language Models</span>
+<span style="color:navy">**Reducing Non-Normative Text Generation from Language Models**</span>
 
 _The 13th International Conference on Natural Language Generation (INLG 2020)_
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2001.08764
 -b31b1b.svg)](https://arxiv.org/abs/2001.08764)
-[![](https://img.shields.io/badge/INLG-20-blueviolet.svg)]()
+[![](https://img.shields.io/badge/INLG--20-Conference-blueviolet.svg)]()
