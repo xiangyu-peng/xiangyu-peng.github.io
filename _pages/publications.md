@@ -74,7 +74,7 @@ _The 3rd Workshop On Narrative Understanding in NAACL-21_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2102.12634
 -b31b1b.svg)](https://arxiv.org/abs/2102.12634)
-[![](https://img.shields.io/badge/NAACL--21-Workshop-9cf.svg)]()
+[![](https://img.shields.io/badge/NAACL--21-Workshop-9cf.svg)](https://aclanthology.org/2021.nuse-1.8/)
 
 **Xiangyu Peng**, Jonathan C. Balloch, Mark O. Riedl
 
@@ -85,7 +85,7 @@ _Reinforcement Learning in Games workshop at AAAI 2021_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2106.02204
 -b31b1b.svg)](https://arxiv.org/abs/2106.02204)
-[![](https://img.shields.io/badge/AAAI--21-Workshop-9cf.svg)]()
+[![](https://img.shields.io/badge/AAAI--21-Workshop-9cf.svg)](http://aaai-rlg.mlanctot.info/papers/AAAI21-RLG_paper_50.pdf)
 
 ## 2020
 
@@ -98,4 +98,4 @@ _The 13th International Conference on Natural Language Generation (INLG 2020)_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2001.08764
 -b31b1b.svg)](https://arxiv.org/abs/2001.08764)
-[![](https://img.shields.io/badge/INLG--20-Conference-blueviolet.svg)]()
+[![](https://img.shields.io/badge/INLG--20-Conference-blueviolet.svg)](https://aclanthology.org/2020.inlg-1.43/)
