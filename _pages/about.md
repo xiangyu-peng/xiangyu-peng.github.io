@@ -15,6 +15,8 @@ You can reach me at xpeng62 at gatech dot edu.
 
 ## Update
 
+**Jan 21st, 2023** Acceptance of my Paper: _Model Ensemble Instead Of Prompt Fusion: A Sample-Specific Knowledge Transfer Method For Few-Shot Prompt Tuning_ by Proceedings of **ICLR-23**
+
 **Oct 6th, 2022** Acceptance of my Paper: _Guiding Neural Story Generation with Reader Models_ by Findings of **EMNLP-22**
 
 **Oct 6th, 2022** Acceptance of my Paper: _Inferring the Reader: Guiding Automated Story Generation with Commonsense Reasoning_ by Findings of **EMNLP-22**

@@ -4,17 +4,16 @@ title: "Publications"
 author_profile: true
 ---
 
-## 2022
+## 2023
 
 **Xiangyu Peng**, Chen Xing, Prafulla Kumar Choubey, Chien-Sheng Wu, Caiming Xiong
 
 <span style="color:navy">**Model ensemble instead of prompt fusion: a sample-specific knowledge transfer method for few-shot prompt tuning**</span>
 
-_Under Review_
-
 
 [![arXiv](https://img.shields.io/badge/arXiv-2210.12587
 -b31b1b.svg)](https://arxiv.org/abs/2210.12587)
+[![](https://img.shields.io/badge/ICLR--23-Conference-blueviolet.svg)](https://openreview.net/forum?id=p0yrSRbN5Bu)
 
 **Xiangyu Peng**, Michael Sollami
 
