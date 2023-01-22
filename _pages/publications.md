@@ -8,7 +8,7 @@ author_profile: true
 
 **Xiangyu Peng**, Chen Xing, Prafulla Kumar Choubey, Chien-Sheng Wu, Caiming Xiong
 
-<span style="color:navy">**Model ensemble instead of prompt fusion: a sample-specific knowledge transfer method for few-shot prompt tuning**</span>
+<span style="color:navy">**Model Ensemble Instead Of Prompt Fusion: A Sample-Specific Knowledge Transfer Method For Few-Shot Prompt Tuning**</span>
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2210.12587
