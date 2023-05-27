@@ -15,6 +15,8 @@ You can reach me at xpeng62 at gatech dot edu.
 
 ## Update
 
+**May 8th, 2023** Work as Research Intern in **Microsoft Research**.
+
 **Jan 21st, 2023** Acceptance of my Paper: _Model Ensemble Instead Of Prompt Fusion: A Sample-Specific Knowledge Transfer Method For Few-Shot Prompt Tuning_ by Proceedings of **ICLR-23**
 
 **Oct 6th, 2022** Acceptance of my Paper: _Guiding Neural Story Generation with Reader Models_ by Findings of **EMNLP-22**
