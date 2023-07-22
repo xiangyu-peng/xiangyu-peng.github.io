@@ -27,8 +27,6 @@ _Under Review_
 -b31b1b.svg)](https://arxiv.org/abs/2301.06294)
 
 
-## 2022
-
 **Xiangyu Peng**, Chen Xing, Prafulla Kumar Choubey, Chien-Sheng Wu, Caiming Xiong
 
 <span style="color:navy">**[9] Model Ensemble Instead Of Prompt Fusion: A Sample-Specific Knowledge Transfer Method For Few-Shot Prompt Tuning**</span>
@@ -37,6 +35,8 @@ _Under Review_
 [![arXiv](https://img.shields.io/badge/arXiv-2210.12587
 -b31b1b.svg)](https://arxiv.org/abs/2210.12587)
 [![](https://img.shields.io/badge/ICLR--23-Conference-blueviolet.svg)](https://openreview.net/forum?id=p0yrSRbN5Bu)
+
+## 2022
 
 **Xiangyu Peng**, Michael Sollami
 
