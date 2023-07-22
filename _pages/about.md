@@ -15,7 +15,11 @@ You can reach me at xpeng62 at gatech dot edu.
 
 ## Update
 
+**July 17th, 2023** Acceptance of my Paper: _Story Shaping: Teaching Agents Human-like Behavior with Stories_ by Proceedings of **AIIDE-23**
+
 **May 8th, 2023** Work as Research Intern in **Microsoft Research**.
+
+**May 1st, 2023** Pass my **thesis proposal**.
 
 **Jan 21st, 2023** Acceptance of my Paper: _Model Ensemble Instead Of Prompt Fusion: A Sample-Specific Knowledge Transfer Method For Few-Shot Prompt Tuning_ by Proceedings of **ICLR-23**
 

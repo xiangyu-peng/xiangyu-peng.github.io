@@ -10,10 +10,11 @@ author_profile: true
 
 <span style="color:navy">**[11] Story Shaping: Teaching Agents Human-like Behavior with Stories**</span>
 
-_Under Review_
+_Proceedings of the 19th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE-23)_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2301.10107
 -b31b1b.svg)](https://arxiv.org/abs/2301.10107)
+[![](https://img.shields.io/badge/AIIDE--23-Conference-blueviolet.svg)]()
 
 
 Jonathan Balloch, Zhiyu Lin, Robert Wright, **Xiangyu Peng**, Mustafa Hussain, Aarun Srinivas, Julia Kim, Mark O. Riedl
@@ -41,7 +42,7 @@ _Under Review_
 
 <span style="color:navy">**[8] XFBoost: Improving Text Generation with Controllable Decoders**</span>
 
-_Under Review_
+_U.S. Patent Application 17/509,024_
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2202.08124
