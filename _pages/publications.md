@@ -58,7 +58,7 @@ _Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS-22)_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2112.08907
 -b31b1b.svg)](https://arxiv.org/abs/2112.08907)
-[![](https://img.shields.io/badge/NeurIPS--22-Conference-blueviolet.svg)](https://nips.cc/Conferences/2022/ScheduleMultitrack?event=54848)
+[![](https://img.shields.io/badge/NeurIPS--22-Conference-blueviolet.svg)](https://proceedings.neurips.cc/paper_files/paper/2022/hash/672e44a114a41d5f34b97459877c083d-Abstract-Conference.html)
 
 
 **Xiangyu Peng**, Kaige Xie, Amal Alabdulkarim, Harshith Kayam, Samihan Dani, Mark O. Riedl
@@ -70,7 +70,7 @@ _Findings of the Association for Computational Linguistics: EMNLP 2022_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2112.08596
 -b31b1b.svg)](https://arxiv.org/abs/2112.08596)
-[![](https://img.shields.io/badge/EMNLP--22-Conference-blueviolet.svg)]()
+[![](https://img.shields.io/badge/EMNLP--22-Conference-blueviolet.svg)](https://aclanthology.org/2022.findings-emnlp.526/)
 
 
 **Xiangyu Peng**, Siyan Li, Sarah Wiegreffe, Mark Riedl
@@ -82,7 +82,7 @@ _Findings of the Association for Computational Linguistics: EMNLP 2022_
 
 [![arXiv](https://img.shields.io/badge/arXiv-2105.01311
 -b31b1b.svg)](https://arxiv.org/abs/2105.01311)
-[![](https://img.shields.io/badge/EMNLP--22-Conference-blueviolet.svg)]()
+[![](https://img.shields.io/badge/EMNLP--22-Conference-blueviolet.svg)](https://aclanthology.org/2022.findings-emnlp.520/)
 
 Jonathan Balloch, Zhiyu Lin, Mustafa Hussain, Aarun Srinivas, **Xiangyu Peng**, Julia Kim, Mark Riedl
 
@@ -93,7 +93,7 @@ __AAAI 2022 Spring Symposium on Designing Artificial Intelligence for Open World
 
 [![arXiv](https://img.shields.io/badge/arXiv-2301.06294
 -b31b1b.svg)](https://arxiv.org/abs/2301.06294)
-[![](https://img.shields.io/badge/AAAI--22-Conference-blueviolet.svg)]()
+[![](https://img.shields.io/badge/AAAI--22-Conference-blueviolet.svg)](https://usc-isi-i2.github.io/AAAI2022SS/papers/SSS-22_paper_55.pdf)
 
 
 ## 2021
