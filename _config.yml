@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Xiangyu Peng / Becky"
 title_separator          : "-"
-name                     : &name "Xiangyu Peng"
-description              : &description "2nd year PhD student in Machine Learning at Georgia Tech."
+name                     : &name "Dr. Xiangyu Peng"
+description              : &description "Ph.D. in Machine Learning at Georgia Tech."
 url                      : https://xiangyu-peng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiangyu-peng/xiangyu-peng.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "<a style='color: #f76900;'>Xiangyu Peng</a>"
   avatar           : "Image from iOS (1).jpg"
-  bio              : "PhD student at Georgia Tech, supervised by Prof. Mark Riedl."
+  bio              : "Ph.D. at Georgia Tech, supervised by Prof. Mark Riedl."
   location         : "Atlanta, GA, US"
   employer         : 
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "xiangyupeng/"
-  orcid            : 
+  orcid            : "0000-0003-3388-3893"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

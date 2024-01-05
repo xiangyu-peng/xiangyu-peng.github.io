@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Xiangyu Peng, a 4th-year Ph.D. candidate in Machine Learning @ Georgia Institute of Technology. I am advised by [Dr. Mark Riedl](http://eilab.gatech.edu/), and my **research** focused on **Natural language generation**, **Game AI**, **Explainable AI**, and **Deep reinforcement learning**.
+I am Xiangyu Peng, Ph.D. in Machine Learning @ Georgia Institute of Technology. I am advised by [Dr. Mark Riedl](http://eilab.gatech.edu/), and my **research** focused on **Natural language generation**, **Game AI**, **Explainable AI**, and **Deep reinforcement learning**.
 
 
 You can reach me at xpeng62 at gatech dot edu. 
 
 ## Update
+
+**Jan 4th, 2024** Successfully defended my dissertation.
 
 **July 17th, 2023** Acceptance of my Paper: _Story Shaping: Teaching Agents Human-like Behavior with Stories_ by Proceedings of **AIIDE-23**
 
