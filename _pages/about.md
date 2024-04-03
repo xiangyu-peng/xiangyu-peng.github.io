@@ -11,9 +11,11 @@ redirect_from:
 I am Xiangyu Peng, Ph.D. in Machine Learning @ Georgia Institute of Technology. I am advised by [Dr. Mark Riedl](http://eilab.gatech.edu/), and my **research** focused on **Natural language generation**, **Game AI**, **Explainable AI**, and **Deep reinforcement learning**.
 
 
-You can reach me at xpeng62 at gatech dot edu. 
+You can reach me at xiangyupeng1994 at gmail dot com.. 
 
 ## Update
+
+**Feb 5th, 2024** Begin my full-time job as Research Scientist at Salesforce Research.
 
 **Jan 4th, 2024** Successfully defended my dissertation.
 
