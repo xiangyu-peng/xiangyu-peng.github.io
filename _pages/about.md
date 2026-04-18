@@ -112,7 +112,7 @@ redirect_from:
 </style>
 
 <p class="about-intro">
-I am a <strong>Research Scientist at Salesforce Research</strong> and hold a Ph.D. in Machine Learning from the <strong>Georgia Institute of Technology</strong>, where I was advised by <a href="http://eilab.gatech.edu/">Prof. Mark Riedl</a>.
+I am a <strong>Senior Research Scientist at Salesforce Research</strong> and hold a Ph.D. in Machine Learning from the <strong>Georgia Institute of Technology</strong>, where I was advised by <a href="http://eilab.gatech.edu/">Prof. Mark Riedl</a>.
 </p>
 
 <div class="research-areas">
@@ -129,6 +129,21 @@ I am a <strong>Research Scientist at Salesforce Research</strong> and hold a Ph.
 <div class="section-heading">News</div>
 
 <div class="timeline">
+
+<div class="timeline-item">
+  <div class="timeline-date">Apr 2026</div>
+  <div class="timeline-content">New preprint: <em>MTA-Agent: An Open Recipe for Multimodal Deep Search Agents</em>.</div>
+</div>
+
+<div class="timeline-item">
+  <div class="timeline-date">Oct 2025</div>
+  <div class="timeline-content">New preprint: <em>UniDoc-Bench: A Unified Benchmark for Document-Centric Multimodal RAG</em>.</div>
+</div>
+
+<div class="timeline-item milestone">
+  <div class="timeline-date">Aug 2025</div>
+  <div class="timeline-content">Promoted to <strong>Senior Research Scientist</strong> at <strong>Salesforce Research</strong>.</div>
+</div>
 
 <div class="timeline-item milestone">
   <div class="timeline-date">Feb 2024</div>

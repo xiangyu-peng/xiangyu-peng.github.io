@@ -57,6 +57,28 @@ author_profile: true
 }
 </style>
 
+<div class="pub-year">2026</div>
+
+<div class="pub-card">
+  <div class="pub-title">MTA-Agent: An Open Recipe for Multimodal Deep Search Agents</div>
+  <div class="pub-authors"><strong>Xiangyu Peng</strong>, Can Qin, An Yan, Xinyi Yang, Zeyuan Chen, Ran Xu, Chien-Sheng Wu</div>
+  <div class="pub-venue">arXiv preprint, 2026</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2604.06376"><img src="https://img.shields.io/badge/arXiv-2604.06376-b31b1b.svg" alt="arXiv"></a>
+  </div>
+</div>
+
+<div class="pub-year">2025</div>
+
+<div class="pub-card">
+  <div class="pub-title">UniDoc-Bench: A Unified Benchmark for Document-Centric Multimodal RAG</div>
+  <div class="pub-authors"><strong>Xiangyu Peng</strong>, Can Qin, Zeyuan Chen, Ran Xu, Caiming Xiong, Chien-Sheng Wu</div>
+  <div class="pub-venue">arXiv preprint, 2025</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2510.03663"><img src="https://img.shields.io/badge/arXiv-2510.03663-b31b1b.svg" alt="arXiv"></a>
+  </div>
+</div>
+
 <div class="pub-year">2023</div>
 
 <div class="pub-card">
