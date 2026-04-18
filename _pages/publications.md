@@ -68,6 +68,15 @@ author_profile: true
   </div>
 </div>
 
+<div class="pub-card">
+  <div class="pub-title">Scaling Knowledge Graph Construction through Synthetic Data Generation and Distillation</div>
+  <div class="pub-authors">Prafulla Kumar Choubey, Xin Su, Man Luo, <strong>Xiangyu Peng</strong>, Caiming Xiong, Tiep Le, Shachar Rosenman, Vasudev Lal, Phil Mui, Ricky Ho, Phillip Howard, Chien-Sheng Wu</div>
+  <div class="pub-venue">arXiv preprint, 2026</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2410.16597"><img src="https://img.shields.io/badge/arXiv-2410.16597-b31b1b.svg" alt="arXiv"></a>
+  </div>
+</div>
+
 <div class="pub-year">2025</div>
 
 <div class="pub-card">
@@ -76,6 +85,63 @@ author_profile: true
   <div class="pub-venue">arXiv preprint, 2025</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2510.03663"><img src="https://img.shields.io/badge/arXiv-2510.03663-b31b1b.svg" alt="arXiv"></a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">Unanswerability Evaluation for Retrieval Augmented Generation</div>
+  <div class="pub-authors"><strong>Xiangyu Peng</strong>, Prafulla Kumar Choubey, Caiming Xiong, Chien-Sheng Wu</div>
+  <div class="pub-venue">Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)</div>
+  <div class="pub-links">
+    <a href="https://aclanthology.org/2025.acl-long.415/"><img src="https://img.shields.io/badge/ACL--25-Conference-2563eb.svg" alt="ACL-25"></a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">Turning Conversations into Workflows: A Framework to Extract and Evaluate Dialog Workflows for Service AI Agents</div>
+  <div class="pub-authors">Prafulla Kumar Choubey, <strong>Xiangyu Peng</strong>, Shilpa Bhagavath, Caiming Xiong, Shiva Kumar Pentyala, Chien-Sheng Wu</div>
+  <div class="pub-venue">Findings of the Association for Computational Linguistics: ACL 2025</div>
+  <div class="pub-links">
+    <a href="https://aclanthology.org/2025.findings-acl.203/"><img src="https://img.shields.io/badge/ACL--25-Findings-2563eb.svg" alt="ACL-25 Findings"></a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">Benchmarking Deep Search over Heterogeneous Enterprise Data</div>
+  <div class="pub-authors">Prafulla Kumar Choubey, <strong>Xiangyu Peng</strong>, Shilpa Bhagavath, Kung-Hsiang Huang, Caiming Xiong, Chien-Sheng Wu</div>
+  <div class="pub-venue">Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: Industry Track (EMNLP 2025)</div>
+  <div class="pub-links">
+    <a href="https://aclanthology.org/2025.emnlp-industry.34/"><img src="https://img.shields.io/badge/EMNLP--25-Industry-2563eb.svg" alt="EMNLP-25"></a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">ReGenesis: LLMs can Grow into Reasoning Generalists via Self-Improvement</div>
+  <div class="pub-authors"><strong>Xiangyu Peng</strong>, Congying Xia, Xinyi Yang, Caiming Xiong, Chien-Sheng Wu, Chen Xing</div>
+  <div class="pub-venue">International Conference on Learning Representations (ICLR 2025) — Oral Presentation</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2410.02108"><img src="https://img.shields.io/badge/arXiv-2410.02108-b31b1b.svg" alt="arXiv"></a>
+    <a href="https://github.com/SalesforceAIResearch/ReGenesis"><img src="https://img.shields.io/badge/GitHub-Code-181717.svg?logo=github" alt="GitHub"></a>
+    <a href="#"><img src="https://img.shields.io/badge/ICLR--25-Oral-2563eb.svg" alt="ICLR-25 Oral"></a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">BingoGuard: LLM Content Moderation Tools with Risk Levels</div>
+  <div class="pub-authors">Fan Yin, Philippe Laban, <strong>Xiangyu Peng</strong>, Yilun Zhou, Yixin Mao, Vaibhav Vats, Linnea Ross, Divyansh Agarwal, Caiming Xiong, Chien-Sheng Wu</div>
+  <div class="pub-venue">International Conference on Learning Representations (ICLR 2025)</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2503.06550"><img src="https://img.shields.io/badge/arXiv-2503.06550-b31b1b.svg" alt="arXiv"></a>
+    <a href="#"><img src="https://img.shields.io/badge/ICLR--25-Conference-2563eb.svg" alt="ICLR-25"></a>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-title">Strefer: Empowering Video LLMs with Space-Time Referring and Reasoning via Synthetic Instruction Data</div>
+  <div class="pub-authors">Honglu Zhou, <strong>Xiangyu Peng</strong>, Shrikant Kendre, Michael S. Ryoo, Silvio Savarese, Caiming Xiong, Juan Carlos Niebles</div>
+  <div class="pub-venue">Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2025)</div>
+  <div class="pub-links">
+    <a href="https://openaccess.thecvf.com/content/ICCV2025W/MMFM/html/Zhou_Strefer_Empowering_Video_LLMs_with_Space-Time_Referring_and_Reasoning_via_ICCVW_2025_paper.html"><img src="https://img.shields.io/badge/ICCV--25-Conference-2563eb.svg" alt="ICCV-25"></a>
   </div>
 </div>
 
