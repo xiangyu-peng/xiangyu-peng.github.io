@@ -79,7 +79,6 @@ author_profile: true
   <div class="pub-authors"><strong>Xiangyu Peng</strong>, Can Qin, An Yan, Xinyi Yang, Zeyuan Chen, Ran Xu, Chien-Sheng Wu</div>
   <div class="pub-keywords"><span>MLLM</span><span>Deep Search</span><span>RL Training</span></div>
   <img src="/images/mta-agent-figure.png" alt="MTA-Agent framework overview" style="width:100%; border-radius:8px; margin:0.8em 0;">
-  <div class="pub-venue">arXiv preprint, 2026</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2604.06376"><img src="https://img.shields.io/badge/arXiv-2604.06376-b31b1b.svg" alt="arXiv"></a>
     <a href="https://github.com/SalesforceAIResearch/MTA-Agent"><img src="https://img.shields.io/badge/GitHub-Code-181717.svg?logo=github" alt="GitHub"></a>
@@ -101,7 +100,7 @@ author_profile: true
   <div class="pub-authors"><strong>Xiangyu Peng</strong>, Can Qin, Zeyuan Chen, Ran Xu, Caiming Xiong, Chien-Sheng Wu</div>
   <div class="pub-keywords"><span>MM-RAG</span><span>Benchmarking</span><span>Evaluation</span></div>
   <img src="/images/unidoc-bench-figure.png" alt="UniDoc-Bench overview" style="width:100%; border-radius:8px; margin:0.8em 0;">
-  <div class="pub-venue">arXiv preprint, 2026</div>
+  <div class="pub-venue">CVPR 2026 Workshop on Multimodal Agents and Retrieval (MAR)</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2510.03663"><img src="https://img.shields.io/badge/arXiv-2510.03663-b31b1b.svg" alt="arXiv"></a>
     <a href="https://github.com/SalesforceAIResearch/UniDoc-Bench"><img src="https://img.shields.io/badge/GitHub-Code-181717.svg?logo=github" alt="GitHub"></a>
@@ -146,6 +145,7 @@ author_profile: true
   <div class="pub-title">ReGenesis: LLMs can Grow into Reasoning Generalists via Self-Improvement</div>
   <div class="pub-authors"><strong>Xiangyu Peng</strong>, Congying Xia, Xinyi Yang, Caiming Xiong, Chien-Sheng Wu, Chen Xing</div>
   <div class="pub-keywords"><span>Reasoning</span><span>Fine-tuning</span></div>
+  <img src="/images/regenesis-figure.png" alt="ReGenesis framework overview" style="width:100%; border-radius:8px; margin:0.8em 0;">
   <div class="pub-venue">International Conference on Learning Representations (ICLR 2025) — Oral Presentation</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2410.02108"><img src="https://img.shields.io/badge/arXiv-2410.02108-b31b1b.svg" alt="arXiv"></a>
