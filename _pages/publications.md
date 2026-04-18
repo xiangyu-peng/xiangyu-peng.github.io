@@ -81,30 +81,31 @@ author_profile: true
   <div class="pub-venue">arXiv preprint, 2026</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2604.06376"><img src="https://img.shields.io/badge/arXiv-2604.06376-b31b1b.svg" alt="arXiv"></a>
+    <a href="https://github.com/SalesforceAIResearch/MTA-Agent"><img src="https://img.shields.io/badge/GitHub-Code-181717.svg?logo=github" alt="GitHub"></a>
   </div>
 </div>
 
 <div class="pub-card">
   <div class="pub-title">Scaling Knowledge Graph Construction through Synthetic Data Generation and Distillation</div>
   <div class="pub-authors">Prafulla Kumar Choubey, Xin Su, Man Luo, <strong>Xiangyu Peng</strong>, Caiming Xiong, Tiep Le, Shachar Rosenman, Vasudev Lal, Phil Mui, Ricky Ho, Phillip Howard, Chien-Sheng Wu</div>
-  <div class="pub-venue">arXiv preprint, 2026</div>
+  <div class="pub-venue">International Conference on Learning Representations (ICLR 2026)</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2410.16597"><img src="https://img.shields.io/badge/arXiv-2410.16597-b31b1b.svg" alt="arXiv"></a>
   </div>
 </div>
 
-<div class="pub-year">2025</div>
-
 <div class="pub-card">
   <div class="pub-title">UniDoc-Bench: A Unified Benchmark for Document-Centric Multimodal RAG</div>
   <div class="pub-authors"><strong>Xiangyu Peng</strong>, Can Qin, Zeyuan Chen, Ran Xu, Caiming Xiong, Chien-Sheng Wu</div>
-  <div class="pub-keywords"><span>MM-RAG</span><span>Benchmarking</span></div>
-  <div class="pub-venue">arXiv preprint, 2025</div>
+  <div class="pub-keywords"><span>MM-RAG</span><span>Benchmarking</span><span>Evaluation</span></div>
+  <div class="pub-venue">arXiv preprint, 2026</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2510.03663"><img src="https://img.shields.io/badge/arXiv-2510.03663-b31b1b.svg" alt="arXiv"></a>
     <a href="https://github.com/SalesforceAIResearch/UniDoc-Bench"><img src="https://img.shields.io/badge/GitHub-Code-181717.svg?logo=github" alt="GitHub"></a>
   </div>
 </div>
+
+<div class="pub-year">2025</div>
 
 <div class="pub-card">
   <div class="pub-title">Unanswerability Evaluation for Retrieval Augmented Generation</div>
@@ -139,6 +140,7 @@ author_profile: true
 <div class="pub-card">
   <div class="pub-title">ReGenesis: LLMs can Grow into Reasoning Generalists via Self-Improvement</div>
   <div class="pub-authors"><strong>Xiangyu Peng</strong>, Congying Xia, Xinyi Yang, Caiming Xiong, Chien-Sheng Wu, Chen Xing</div>
+  <div class="pub-keywords"><span>Reasoning</span><span>Fine-tuning</span></div>
   <div class="pub-venue">International Conference on Learning Representations (ICLR 2025) — Oral Presentation</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2410.02108"><img src="https://img.shields.io/badge/arXiv-2410.02108-b31b1b.svg" alt="arXiv"></a>
@@ -160,6 +162,7 @@ author_profile: true
 <div class="pub-card">
   <div class="pub-title">Strefer: Empowering Video LLMs with Space-Time Referring and Reasoning via Synthetic Instruction Data</div>
   <div class="pub-authors">Honglu Zhou, <strong>Xiangyu Peng</strong>, Shrikant Kendre, Michael S. Ryoo, Silvio Savarese, Caiming Xiong, Juan Carlos Niebles</div>
+  <div class="pub-keywords"><span>Video LLM</span><span>Space-Time-Aware Reasoning</span><span>Synthetic Data Generation</span></div>
   <div class="pub-venue">Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV 2025)</div>
   <div class="pub-links">
     <a href="https://openaccess.thecvf.com/content/ICCV2025W/MMFM/html/Zhou_Strefer_Empowering_Video_LLMs_with_Space-Time_Referring_and_Reasoning_via_ICCVW_2025_paper.html"><img src="https://img.shields.io/badge/ICCV--25-Conference-2563eb.svg" alt="ICCV-25"></a>

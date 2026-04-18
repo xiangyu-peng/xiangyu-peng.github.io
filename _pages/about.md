@@ -117,8 +117,9 @@ I am a <strong>Senior Research Scientist at Salesforce Research</strong> and hol
 
 <div class="research-areas">
   <span>Natural Language Generation</span>
-  <span>Game AI</span>
-  <span>Explainable AI</span>
+  <span>Multimodal LLM</span>
+  <span>RL Training</span>
+  <span>Reasoning</span>
   <span>Deep Reinforcement Learning</span>
 </div>
 
