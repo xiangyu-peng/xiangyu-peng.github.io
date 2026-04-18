@@ -36,7 +36,10 @@
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  line-height: 1.2;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: $darker-gray;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -53,10 +56,13 @@
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+    font-weight: 600;
+    color: $darker-gray;
   }
 
   p, li, dl {
     font-size: 1em;
+    color: $dark-gray;
   }
 
   /* paragraph indents */
@@ -73,7 +79,8 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    color: $link-color;
 
     &:hover {
       text-decoration: underline;
