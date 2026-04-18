@@ -130,16 +130,6 @@ I am a <strong>Senior Research Scientist at Salesforce Research</strong> and hol
 
 <div class="timeline">
 
-<div class="timeline-item">
-  <div class="timeline-date">Apr 2026</div>
-  <div class="timeline-content">New preprint: <em>MTA-Agent: An Open Recipe for Multimodal Deep Search Agents</em>.</div>
-</div>
-
-<div class="timeline-item">
-  <div class="timeline-date">Oct 2025</div>
-  <div class="timeline-content">New preprint: <em>UniDoc-Bench: A Unified Benchmark for Document-Centric Multimodal RAG</em>.</div>
-</div>
-
 <div class="timeline-item milestone">
   <div class="timeline-date">Aug 2025</div>
   <div class="timeline-content">Promoted to <strong>Senior Research Scientist</strong> at <strong>Salesforce Research</strong>.</div>
