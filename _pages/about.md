@@ -133,7 +133,7 @@ I am a <strong>Senior Research Scientist at Salesforce Research</strong> and hol
 
 <div class="timeline-item milestone">
   <div class="timeline-date">Aug 2025</div>
-  <div class="timeline-content">Promoted to <strong>Senior Research Scientist</strong> at <strong>Salesforce Research</strong>.</div>
+  <div class="timeline-content">🎉 Promoted to <strong>Senior Research Scientist</strong> at <strong>Salesforce Research</strong>.</div>
 </div>
 
 <div class="timeline-item milestone">
@@ -143,7 +143,7 @@ I am a <strong>Senior Research Scientist at Salesforce Research</strong> and hol
 
 <div class="timeline-item milestone">
   <div class="timeline-date">Jan 2024</div>
-  <div class="timeline-content">Successfully <strong>defended my dissertation</strong>.</div>
+  <div class="timeline-content">🎓 Successfully <strong>defended my dissertation</strong>.</div>
 </div>
 
 <div class="timeline-item">

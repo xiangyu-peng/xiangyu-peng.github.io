@@ -78,6 +78,7 @@ author_profile: true
   <div class="pub-title">MTA-Agent: An Open Recipe for Multimodal Deep Search Agents</div>
   <div class="pub-authors"><strong>Xiangyu Peng</strong>, Can Qin, An Yan, Xinyi Yang, Zeyuan Chen, Ran Xu, Chien-Sheng Wu</div>
   <div class="pub-keywords"><span>MLLM</span><span>Deep Search</span><span>RL Training</span></div>
+  <img src="/images/mta-agent-figure.png" alt="MTA-Agent framework overview" style="width:100%; border-radius:8px; margin:0.8em 0;">
   <div class="pub-venue">arXiv preprint, 2026</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2604.06376"><img src="https://img.shields.io/badge/arXiv-2604.06376-b31b1b.svg" alt="arXiv"></a>
