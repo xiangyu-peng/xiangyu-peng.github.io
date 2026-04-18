@@ -89,6 +89,7 @@ author_profile: true
 <div class="pub-card">
   <div class="pub-title">Scaling Knowledge Graph Construction through Synthetic Data Generation and Distillation</div>
   <div class="pub-authors">Prafulla Kumar Choubey, Xin Su, Man Luo, <strong>Xiangyu Peng</strong>, Caiming Xiong, Tiep Le, Shachar Rosenman, Vasudev Lal, Phil Mui, Ricky Ho, Phillip Howard, Chien-Sheng Wu</div>
+  <img src="/images/synthkg-figure.png" alt="SynthKG framework overview" style="width:100%; border-radius:8px; margin:0.8em 0;">
   <div class="pub-venue">International Conference on Learning Representations (ICLR 2026)</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2410.16597"><img src="https://img.shields.io/badge/arXiv-2410.16597-b31b1b.svg" alt="arXiv"></a>
@@ -99,10 +100,12 @@ author_profile: true
   <div class="pub-title">UniDoc-Bench: A Unified Benchmark for Document-Centric Multimodal RAG</div>
   <div class="pub-authors"><strong>Xiangyu Peng</strong>, Can Qin, Zeyuan Chen, Ran Xu, Caiming Xiong, Chien-Sheng Wu</div>
   <div class="pub-keywords"><span>MM-RAG</span><span>Benchmarking</span><span>Evaluation</span></div>
+  <img src="/images/unidoc-bench-figure.png" alt="UniDoc-Bench overview" style="width:100%; border-radius:8px; margin:0.8em 0;">
   <div class="pub-venue">arXiv preprint, 2026</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2510.03663"><img src="https://img.shields.io/badge/arXiv-2510.03663-b31b1b.svg" alt="arXiv"></a>
     <a href="https://github.com/SalesforceAIResearch/UniDoc-Bench"><img src="https://img.shields.io/badge/GitHub-Code-181717.svg?logo=github" alt="GitHub"></a>
+    <a href="https://huggingface.co/datasets/Salesforce/UniDoc-Bench"><img src="https://img.shields.io/badge/🤗-Dataset-ffd21e.svg" alt="HuggingFace"></a>
   </div>
 </div>
 
@@ -112,6 +115,7 @@ author_profile: true
   <div class="pub-title">Unanswerability Evaluation for Retrieval Augmented Generation</div>
   <div class="pub-authors"><strong>Xiangyu Peng</strong>, Prafulla Kumar Choubey, Caiming Xiong, Chien-Sheng Wu</div>
   <div class="pub-keywords"><span>RAG</span><span>Evaluation</span></div>
+  <img src="/images/uaeval4rag-figure.png" alt="UAEval4RAG framework overview" style="width:100%; max-width:400px; border-radius:8px; margin:0.8em 0;">
   <div class="pub-venue">Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)</div>
   <div class="pub-links">
     <a href="https://aclanthology.org/2025.acl-long.415/"><img src="https://img.shields.io/badge/ACL--25-Conference-2563eb.svg" alt="ACL-25"></a>
