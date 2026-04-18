@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiangyu Peng / Becky"
 title_separator          : "-"
 name                     : &name "Dr. Xiangyu Peng"
-description              : &description "Ph.D. in Machine Learning at Georgia Tech."
+description              : &description "Research Scientist at Salesforce Research. Ph.D. in Machine Learning from Georgia Tech."
 url                      : https://xiangyu-peng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiangyu-peng/xiangyu-peng.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "<a style='color: #f76900;'>Xiangyu Peng</a>"
+  name             : "Xiangyu Peng (Becky)"
   avatar           : "Image from iOS (1).jpg"
-  bio              : "Ph.D. at Georgia Tech, supervised by Prof. Mark Riedl."
-  location         : "Atlanta, GA, US"
+  bio              : "Research Scientist @ Salesforce Research. Ph.D. in Machine Learning, Georgia Tech."
+  location         : "San Francisco, CA"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=lXsRQ-MAAAAJ"
@@ -94,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "RebekahPeng55"
+  facebook         :
   foursquare       :
   github           : "xiangyu-peng"
   google_plus      :
   keybase          :
-  instagram        : bekkkkkahhh
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "xiangyupeng/"
@@ -309,5 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-hacker
