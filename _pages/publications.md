@@ -55,6 +55,21 @@ author_profile: true
   display: inline-block;
   text-decoration: none !important;
 }
+.pub-keywords {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-bottom: 0.5em;
+}
+.pub-keywords span {
+  display: inline-block;
+  padding: 2px 10px;
+  background: #eff6ff;
+  color: #1d4ed8;
+  border-radius: 100px;
+  font-size: 0.78em;
+  font-weight: 500;
+}
 </style>
 
 <div class="pub-year">2026</div>
@@ -62,6 +77,7 @@ author_profile: true
 <div class="pub-card">
   <div class="pub-title">MTA-Agent: An Open Recipe for Multimodal Deep Search Agents</div>
   <div class="pub-authors"><strong>Xiangyu Peng</strong>, Can Qin, An Yan, Xinyi Yang, Zeyuan Chen, Ran Xu, Chien-Sheng Wu</div>
+  <div class="pub-keywords"><span>MLLM</span><span>Deep Search</span><span>RL Training</span></div>
   <div class="pub-venue">arXiv preprint, 2026</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2604.06376"><img src="https://img.shields.io/badge/arXiv-2604.06376-b31b1b.svg" alt="arXiv"></a>
@@ -82,18 +98,22 @@ author_profile: true
 <div class="pub-card">
   <div class="pub-title">UniDoc-Bench: A Unified Benchmark for Document-Centric Multimodal RAG</div>
   <div class="pub-authors"><strong>Xiangyu Peng</strong>, Can Qin, Zeyuan Chen, Ran Xu, Caiming Xiong, Chien-Sheng Wu</div>
+  <div class="pub-keywords"><span>MM-RAG</span><span>Benchmarking</span></div>
   <div class="pub-venue">arXiv preprint, 2025</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2510.03663"><img src="https://img.shields.io/badge/arXiv-2510.03663-b31b1b.svg" alt="arXiv"></a>
+    <a href="https://github.com/SalesforceAIResearch/UniDoc-Bench"><img src="https://img.shields.io/badge/GitHub-Code-181717.svg?logo=github" alt="GitHub"></a>
   </div>
 </div>
 
 <div class="pub-card">
   <div class="pub-title">Unanswerability Evaluation for Retrieval Augmented Generation</div>
   <div class="pub-authors"><strong>Xiangyu Peng</strong>, Prafulla Kumar Choubey, Caiming Xiong, Chien-Sheng Wu</div>
+  <div class="pub-keywords"><span>RAG</span><span>Evaluation</span></div>
   <div class="pub-venue">Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL 2025)</div>
   <div class="pub-links">
     <a href="https://aclanthology.org/2025.acl-long.415/"><img src="https://img.shields.io/badge/ACL--25-Conference-2563eb.svg" alt="ACL-25"></a>
+    <a href="https://github.com/SalesforceAIResearch/Unanswerability_RAGE"><img src="https://img.shields.io/badge/GitHub-Code-181717.svg?logo=github" alt="GitHub"></a>
   </div>
 </div>
 
@@ -112,6 +132,7 @@ author_profile: true
   <div class="pub-venue">Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing: Industry Track (EMNLP 2025)</div>
   <div class="pub-links">
     <a href="https://aclanthology.org/2025.emnlp-industry.34/"><img src="https://img.shields.io/badge/EMNLP--25-Industry-2563eb.svg" alt="EMNLP-25"></a>
+    <a href="https://github.com/SalesforceAIResearch/HERB"><img src="https://img.shields.io/badge/GitHub-Code-181717.svg?logo=github" alt="GitHub"></a>
   </div>
 </div>
 
